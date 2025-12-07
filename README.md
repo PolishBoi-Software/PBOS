@@ -1,3 +1,5 @@
+# PBOS (YACOS) has been scrapped (for now), thank you for your support.
+
 <div align="center">
     <img src="Images/PBOS_Logo.png">
 </div>
